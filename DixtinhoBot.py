@@ -6,7 +6,7 @@ from ctypes.util import find_library
 from discord.ext import commands
 import datetime
 
-bot_token = "TOKEN"  # Replace TOKEN to your bot token.
+bot_token = "TOKEN"  # Replace TOKEN with your bot token.
 
 # You can create your bot through here: https://discordapp.com/developers/applications/
 
