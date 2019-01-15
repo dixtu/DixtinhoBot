@@ -1,6 +1,6 @@
 DixtinhoBot is a simple python bot for discord created using discord.py
 
-Pre-requisites:
+Prerequisites:
   -discord.py
   -datetime
   -find_library from ctypes.util
