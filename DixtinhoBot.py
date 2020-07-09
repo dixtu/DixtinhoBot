@@ -1,4 +1,4 @@
-# DixtinhoBot for Discord by dixtu - https://github.com/dixtu
+# DixtinhoBot for Discord by dixtu - https://github.com/igor-pontes
 # Created using discord.py :)
 
 import discord
